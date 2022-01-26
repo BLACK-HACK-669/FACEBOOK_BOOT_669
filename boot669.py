@@ -113,7 +113,7 @@ def login():
         print logo
         print 42*"\033[1;96m="
         print('\033[1;96m[☆] \x1b[1;91mFacebookek Daxel Bka \x1b[1;96m[☆]' )
-        id = raw_input('\033[1;96m[+] \x1b[0;34mID/Email \x1b[1;91m: \x1b[1;92m')
+        id = raw_input('\033[1;96m[+] \x1b[0;34mUserID/Email \x1b[1;91m: \x1b[1;92m')
         pwd = raw_input('\033[1;96m[+] \x1b[0;34mPassword \x1b[1;91m: \x1b[1;92m')
         tik()
         try:
