@@ -98,10 +98,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Passwordaka Halaya"
-            os.system('xdg-open https://t.me/xBLACK_HACK_669x')
+            os.system('xdg-open https://www.youtube.com/channel/UChgCgpoarzvdEEeitoa_cZw')
     else:
         print "Usarnameaka Halaya"
-        os.system('xdg-open https://t.me/xBLACK_HACK_669x')
+        os.system('xdg-open https://t.me/Vv_ENOM')
  
 def login():
     os.system('clear')
